@@ -1,4 +1,4 @@
-*JS_Clock
+# JS Clock
 
 Simple Clock using CSS and JavaScript
 
